@@ -1,0 +1,9 @@
+#press the commands for
+rfc - react functional component
+
+#react fragment
+<>
+</>
+or
+<React.Fragment>
+</React.Fragment>
